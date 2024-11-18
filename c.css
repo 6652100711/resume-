@@ -1,0 +1,44 @@
+/* Global Styles */
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #fdfdfd;
+    color: #444;
+}
+
+/* Section Titles */
+h2 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+/* Custom Colors for List Groups */
+.list-group-item {
+    border: none;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+/* Section Padding */
+section {
+    padding: 20px 0;
+}
+
+/* Footer */
+footer {
+    margin-top: 30px;
+    font-size: 0.9rem;
+}
+
+/* Contact Links */
+a {
+    color: #ff6b6b;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4d4d;
+    text-decoration: underline;
+}
